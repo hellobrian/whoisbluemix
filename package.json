@@ -1,0 +1,25 @@
+{
+  "name": "whois-ibm",
+  "version": "1.0.0",
+  "description": "ibm directory for morocco hackathon",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ibm"
+  ],
+  "author": "Brian Han",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.7.1",
+    "express": "^4.12.3",
+    "gulp": "^3.8.11",
+    "gulp-autoprefixer": "^2.3.0",
+    "gulp-csso": "^1.0.0",
+    "gulp-plumber": "^1.0.0",
+    "gulp-sass": "^2.0.1",
+    "gulp-scss-lint": "^0.2.0",
+    "gulp-size": "^1.2.1"
+  }
+}
