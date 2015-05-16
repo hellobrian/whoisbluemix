@@ -30,7 +30,7 @@ var SOURCE = {
 // browser-sync task for starting the server.
 gulp.task('browser-sync', function() {
     browserSync({
-        proxy: "localhost:4000"
+        proxy: "localhost:5000"
     });
 });
 

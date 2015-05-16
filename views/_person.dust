@@ -1,0 +1,9 @@
+<div class="person">
+  <h2 class="person__name">name</h2>
+  <ul>
+    <li class="person__job-title">job-title</li>
+    <li class="person__location">location</li>
+    <li class="person__email">email</li>
+    <li class="person__twitter">twitter</li>  
+  </ul>
+</div>

@@ -1,0 +1,10 @@
+applications:
+- disk_quota: 1024M
+  host: whoisibm
+  name: whoisibm
+  command: npm app.js
+  path: .
+  domain: mybluemix.net
+  instances: 1
+  memory: 128M
+  buildpack: sdk-for-nodejs

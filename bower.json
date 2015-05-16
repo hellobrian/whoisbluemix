@@ -1,0 +1,19 @@
+{
+  "name": "whois-ibm",
+  "version": "0.0.0",
+  "homepage": "https://github.com/thisisbrianhan/whoisbluemix",
+  "authors": [
+    "thisisbrianhan <bthan@us.ibm.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bluemix-style": "git@github.com:cloud-platform-design/design-guide-package.git"
+  }
+}

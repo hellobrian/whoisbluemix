@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bluemix Design Guide | {title}</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+  <body>    
+    {+content}
+      Success. Prototype is ready.
+    {/content}
+  </body>
+</html>
