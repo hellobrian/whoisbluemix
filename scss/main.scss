@@ -1,5 +1,15 @@
 @import "bower_components/bluemix-style/scss/base.scss";
 
-h1 {
-  color: red;
+@import "header";
+@import "layout";
+@import "person";
+
+
+body {
+  background-color: white;  
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
 }

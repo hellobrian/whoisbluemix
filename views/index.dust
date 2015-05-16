@@ -1,4 +1,6 @@
 {>layout/}
 {<content}
-  <h1>hello</h1>
+<section class="people">
+  {> _person /}
+</section>
 {/content}

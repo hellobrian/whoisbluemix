@@ -1,0 +1,311 @@
+ACM Morocco 2015 - IBMer Directory
+
+Please fill in the info below for the IBMer Yearbook. We are also requesting your personal gmail and cell phone to be used internally for us IBMers at the event. We'll put a Google Hangout together if you'd like to participate, just to coordinate logistics, find people, etc.
+
+Name: Megan Kostick
+Title/Position: Software Engineer - Cloud and Open Source Technologies
+Day Job: Hacking on Docker
+Email: mkostick@us.ibm.com
+Location: Seattle, WA
+Twitter: N/A
+LinkedIn: linkedin.com/in/kostickmegan
+Fun fact(s): Loves running, snowboarding, and traveling
+Cell Phone: (360) 304-8340
+Gmail Address: kostick.megan@gmail.com
+
+
+Name: Kalonji Bankole
+Title/Position: Software Engineer
+Day Job: Automating BlueMix deployments
+Email: kkbankol@us.ibm.com
+Location: San Jose, CA
+Fun fact(s): Enjoys longboarding, hiking, and going to the beach
+Twitter: @k_bankole
+LinkedIn: 
+Cell Phone: 3237127799
+Gmail Address: kalonb91@gmail.com
+
+Name: Gerald (Gerry) Lane
+Title/Position: Director of Open Source and Standards at IBM
+Day Job:
+Email: gtlane@us.ibm.com
+Location: New York City, NY
+Fun fact(s):
+Twitter:
+LinkedIn: linkedin.com/in/geraldlane
+Cell Phone:
+Gmail Address:
+
+Name: Ron Doyle
+Title/Position: Distinguished Engineer
+Day Job: Lead Cloud and Mobile Technology Team, Cloud Joint Program, SW Incubation Program 
+Email:rdoyle@us.ibm.com
+Location: RTP, NC	
+Fun fact(s): Enjoys outdoors - kayaking, biking, fishing
+Twitter: @ronpdoyle
+LinkedIn: https://www.linkedin.com/pub/ron-doyle/5/a31/325
+Cell Phone: 9192647173
+Gmail Address: kingugbert@gmail.com
+
+Name: Andrew Hately
+Title/Position: Distinguished Engineer and CTO, Cloud Labs
+Day Job:
+Email: hately@us.ibm.com
+Location: San Francisco Bay Area
+Fun fact(s):T
+witter: @cloudtroll
+LinkedIn: linkedin.com/in/ahately
+Cell Phone:
+Gmail Address:
+
+Name: Christopher (Chris) Madison
+Title/Position: Senior Architect - IBM Watson Ecosystem
+Day Job: Co-organizer of Bluemix and Watson Meetup groups
+Email: cmadison@us.ibm.com
+Location: Charlotte, NC
+Fun fact(s): hiking, running, camping, microbrews
+Twitter: @ChrisMadisonIBM
+LinkedIn: https://www.linkedin.com/in/cmmadison
+Cell Phone: 7048771840
+Gmail Address: cmadison68@gmail.com
+
+Name: John Cohn
+Title/Position: IBM Fellow
+Day Job: Chief Scientist for Design Automation
+Email: johncohn@us.ibm.com
+Location: Essex Junction or Burlington, VT
+Fun fact(s):
+Twitter:
+LinkedIn: linkedin.com/in/johncohn
+Cell Phone:
+Gmail Address:
+
+Name: Michael Fraenkel
+Title/Position: Distinguished Engineer - CloudFoundry
+Day Job: CloudFoundry
+Email: fraenkel@us.ibm.com
+Location: RTP
+Fun fact(s): Ski, bike, run
+Twitter: @MichaelFraenkel
+LinkedIn: 
+Cell Phone: 919-533-4580
+Gmail Address: michael.fraenkel@gmail.com
+
+Name: Marc-Arthur Pierre-Louis
+Title/Position: Senior Software Engineer - Advanced Technology and Design
+Day Job: Innovation 
+Email: mpierre-@us.ibm.com
+Location: Charlotte, North Carolina
+Fun fact(s): too many to list
+Twitter: @marcapl
+LinkedIn:
+Cell Phone: 704-577-3109
+Gmail Address: brb@brbmi.com
+
+Name: Art Francis
+Title/Position: Senior Development Manager
+Day Job: Innovation, Community Development
+Email: afrancis@us.ibm.com
+Location: Research Triangle Park, NC
+Fun fact(s): Enjoys BPL soccer, classic cars
+Twitter: 
+LinkedIn: 
+Cell Phone: 9196560789
+Gmail Address:
+
+Name: Steve Dale Title/Position: Manager - Advanced Cloud Infrastructure and DEMOcentral 
+Day Job: I manage a team that provides infrastructure services for a Cloud platform development datacenter, as well as running IBM's DEMOcentral cloud in Austin.   
+Email: stevedal@us.ibm.com 
+Location: Austin, TX 
+Fun fact(s): I've been with IBM 31 years this year. I started as a mail clerk (supplemental) in Franklin Lakes, NJ in August, 1984, and have been moved by IBM twice. My first full time job with IBM was in Accounting. I switched to a job in programming after 7 years in accounting and finance, and then to data center operations after 15 years with IBM. I was staff, and had my first management job, as part of the Extreme Blue program from 2001-2011. 
+Twitter: @Stevious 
+LinkedIn: linkedin.com/in/stevedal 
+Cell Phone: 408-504-3138 
+Gmail Address: stevedal@gmail.com
+
+Name: Rob Retchless
+Title/Position: Technical Lead, IBM Bluemix DevOps Services Growth Hacking at IBM
+Day Job:
+Email: retchles@ca.ibm.com
+Location: Toronto, Canada
+Fun fact(s):
+Twitter:
+LinkedIn:
+Cell Phone:
+Gmail Address:
+
+Name: Adam Archer
+Title/Position: IBM DevOps Core Services Lead
+Day Job:
+Email: agarcher@ca.ibm.com
+Location: Toronto, Canada
+Fun fact(s):
+Twitter:
+LinkedIn: linkedin.com/in/agarcher
+Cell Phone:
+Gmail Address:
+
+Name: Michael (Dr. Max) Maximilien
+Title/Position: Chief Architect PaaS Innovation at IBM Cloud Labs
+Day Job: Cloud Foundry
+Email: maxim@us.ibm.com
+Location: San Jose, CA
+Fun fact(s):
+Twitter:
+LinkedIn: linkedin.com/in/drmaximilien
+Cell Phone:
+Gmail Address:
+
+Name: Liz Kueper
+Title/Position: Client Solutions Architect at IBM
+Day Job:
+Email: ekueper@us.ibm.com
+Location: San Francisco Bay Area
+Fun fact(s):
+Twitter:
+LinkedIn: linkedin.com/in/lizkueper
+Cell Phone:
+Gmail Address: ekeuper@gmail.com
+
+Name: Julian Friedman
+Title/Position: IBM Emerging Technology Specialist / IBM Cloud Labs Architect & Developer / LSCITS Research Engineer
+Day Job:
+Email: julz.friedman@uk.ibm.com
+Location: Southampton, UK
+Fun fact(s):
+Twitter:
+LinkedIn:
+Cell Phone:
+Gmail Address:
+
+Name: Oluwafemi (Femi) Oso
+Title/Position: IBM Software Sales
+Day Job:
+Email: ofemi@ng.ibm.com
+Location: Nigeria
+Fun fact(s):
+Twitter:
+LinkedIn:
+Cell Phone:
+Gmail Address:
+
+Name: Jacob (Jake) Peyser
+Title/Position: Developer Advocate for Bluemix at IBM
+Day Job:
+Email: jepeyser@us.ibm.com
+Location: Austin, TX
+Fun fact(s):
+Twitter:
+LinkedIn: www.linkedin.com/in/jakepeyser
+Cell Phone:
+Gmail Address:
+
+Name: Austin Auth
+Title/Position: Front-End Developer | Visual Designer
+Day Job:
+Email: ahauth@us.ibm.com
+Location: Austin, TX
+Fun fact(s):
+Twitter:
+LinkedIn:
+Cell Phone:
+Gmail Address:
+
+Name: Ben Rondeau
+Title/Position: Developer Advocate | Bluemix
+Day Job: Anything and everything to showcase Bluemix
+Email: benrondeau@us.ibm.com
+Location: Austin, TX
+Fun fact(s): SCUBA Instructor
+Twitter: @_benrondeau
+LinkedIn:  https://www.linkedin.com/pub/ben-rondeau/80/b83/369
+Cell Phone: 512-922-1920
+Gmail Address: bensonworklight@gmail.com
+
+Name: Annahita Varahrami
+Title/Position: Worldwide Bluemix Garage Client Experience Manager at IBM
+Day Job:
+Email: annahitav@us.ibm.com
+Location: Austin, TX
+Fun fact(s):
+Twitter:
+LinkedIn:
+Cell Phone:
+Gmail Address:
+
+Name: Pascale Xelot
+Title/Position: Director Alliances & Cloud Ecosystem Development for Europe at IBM
+Day Job:
+Email: pascale.xelot@fr.ibm.com
+Location: Nice, France
+Fun fact(s):
+Twitter:
+LinkedIn: linkedin.com/in/pascalexelot
+Cell Phone:
+Gmail Address:
+
+Name: Predrag Lucic
+Title/Position: Ecosystem Development Executive at IBM Middle East & Africa
+Day Job:
+Email: plucic@ae.ibm.com
+Location: United Arab Emirates
+Fun fact(s):
+Twitter:
+LinkedIn: linkedin.com/in/plucic
+Cell Phone:
+Gmail Address:
+
+Name: Gloria Powell
+Title/Position: Program Manager
+Day Job: IBM Academic Initiative 
+Email: gpowell@us.ibm.com
+Location: Raleigh, NC  USA
+Fun fact(s): Loves reading, walking   
+Twitter: @GloriaPowell4
+LinkedIn:
+Cell Phone: 910-352-7721
+Gmail Address: gpmonroe60@gmail.com
+
+Name: Anthony (Tony) Lewitt
+Title/Position: Program Director, Lead Professional Development Manager
+Day Job:
+Email: lewitt1@us.ibm.com
+Location: Raleigh-Durham, NC
+Fun fact(s):
+Twitter:
+LinkedIn:
+Cell Phone:
+Gmail Address:
+
+Name: Katarina Korcekova
+Title/Position: University Hiring Lead Europe at IBM
+Day Job:
+Email: katarina_korcekova@sk.ibm.com
+Location: Slovak Republic
+Fun fact(s):
+Twitter:
+LinkedIn:
+Cell Phone:
+Gmail Address:
+
+Name: Ryan Mancinelli
+Title/Position: U.S. Intern & Co-op Program Manager at IBM
+Day Job:
+Email: rmmancin@us.ibm.com
+Location: San Diego, CA
+Fun fact(s): Loves Boston Sports and all things Geek / Fantasy
+Twitter: @Ryan_Mance
+LinkedIn: linkedin.com/in/ryanmmancinelli
+Cell Phone: 7817189246
+Gmail Address: mancinelli.ryan@gmail.com
+
+Name: Brian Han
+Title/Position: Front-end Developer
+Day Job: IBM Bluemix
+Email: bthan@us.ibm.com
+Location: Austin, TX
+Fun fact(s):
+Twitter: @thisisbrianhan
+LinkedIn:
+Cell Phone: 512-593-3635
+Gmail Address:

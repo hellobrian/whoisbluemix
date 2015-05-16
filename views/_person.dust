@@ -1,6 +1,8 @@
 <div class="person">
   <h2 class="person__name">name</h2>
-  <ul>
+  <div class="person__image-container"><img class="person__image" src="#" alt="person"></div>
+  
+  <ul class="person__about">
     <li class="person__job-title">job-title</li>
     <li class="person__location">location</li>
     <li class="person__email">email</li>

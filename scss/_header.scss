@@ -1,0 +1,13 @@
+.header {
+  &__title {
+    @extend %base--h1;
+    background-color: white;
+    color: #152935;
+    padding: 1em;
+    font-size: 1.5rem;
+
+    span {
+      font-weight: 200;
+    }
+  }
+}
