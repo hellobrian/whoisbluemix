@@ -1,0 +1,228 @@
+{
+	"people": [
+		{
+			"name": "Ahmed Amni",
+			"title": "Cloud Eco System IBM Morocco",
+			"location": "Casablanca, Morocco",
+			"email": "ahmed.ami@ma.ibm.com",
+			"twitter": "",
+			"picture": ""
+		},
+		{
+			"name": "Adam Archer",
+			"title": "IBM DevOps Core Services Lead",
+			"location": "Toronto, Canada",
+			"email": "agarcher@ca.ibm.com",
+			"twitter": "",
+			"picture": ""
+		},
+		{
+			"name": "Austin Auth",
+			"title": "Front-End Devloper and Designer on IBM Bluemix",
+			"location": "Austin, TX, USA",
+			"email": "ahauth@us.ibm.com",
+			"twitter": "@austinauth",
+			"picture": ""
+		},
+		{
+			"name": "Kalonji Bankole",
+			"title": "Software Engineer Automating BlueMix deployments",
+			"location": "San Jose, CA, USA",
+			"email": "kkbankol@us.ibm.com",
+			"twitter": "@k_bankole",
+			"picture": ""
+		},
+		{
+			"name": "John Cohn",
+			"title": "IBM Fellow Corporate Strategy",
+			"location": "Richmond, VT, USA",
+			"email": "johncohn@us.ibm.com",
+			"twitter": "",
+			"picture": ""
+		},
+		{
+			"name": "Steve Dale",
+			"title": "Manager - Advanced Cloud Infrastructure and DEMOcentral",
+			"location": "Austin, TX, USA",
+			"email": "stevedal@us.ibm.com",
+			"twitter": "@Stevious",
+			"picture": ""
+		},
+		{
+			"name": "Ron Doyle",
+			"title": "Distinguished Engineer Leading the Cloud and Mobile Tech Team",
+			"location": "RTP, NC, USA",
+			"email": "rdoyle@us.ibm.com",
+			"twitter": "@ronpdoyle",
+			"picture": ""
+		},
+		{
+			"name": "Art Francis",
+			"title": "Senior Development Manager - Focused on Innovation and Community Development",
+			"location": "RTP, NC, USA",
+			"email": "afrancis@us.ibm.com",
+			"twitter": "",
+			"picture": ""
+		},
+		{
+			"name": "Michael Fraenkel",
+			"title": "Distinguished Engineer - Working on CloudFoundry",
+			"location": "RTP, NC, USA",
+			"email": "fraenkel@us.ibm.com",
+			"twitter": "@MichaelFraenkel",
+			"picture": ""
+		},
+		{
+			"name": "Julian Friedman",
+			"title": "IBM Cloud Labs Architect & Developer",
+			"location": "Southampton, UK",
+			"email": "julz.friedman@uk.ibm.com",
+			"twitter": "",
+			"picture": ""
+		},
+		{
+			"name": "Brian Han",
+			"title": "Front-end Developer on IBM Bluemix",
+			"location": "Austin, TX, USA",
+			"email": "bthan@us.ibm.com",
+			"twitter": "@thisisbrianhan",
+			"picture": ""
+		},
+		{
+			"name": "Andrew Hately",
+			"title": "Distinguished Engineer and CTO, Cloud Labs",
+			"location": "San Francisco, CA, USA",
+			"email": "hately@us.ibm.com",
+			"twitter": "@cloudtroll",
+			"picture": ""
+		},
+		{
+			"name": "Megan Kostick",
+			"title": "Developer hacking on Docker",
+			"location": "Seattle, WA, USA",
+			"email": "mkostick@us.ibm.com",
+			"twitter": "",
+			"picture": ""
+		},
+		{
+			"name": "Katarina Korcekova",
+			"title": "University Hiring Lead IBM Europe",
+			"location": "Slovak Republic",
+			"email": "katarina_korcekova@sk.ibm.com",
+			"twitter": "",
+			"picture": ""
+		},
+		{
+			"name": "Liz Kueper",
+			"title": "Solutions Architect Dot Connection Engineer IBM Silicon Valley",
+			"location": "San Francisco, CA, USA",
+			"email": "ekueper@us.ibm.com",
+			"twitter": "@lizkueper",
+			"picture": ""
+		},
+		{
+			"name": "Gerry Lane",
+			"title": "Director of Open Technology & IP",
+			"location": "Armonk, NY, USA",
+			"email": "gtlane@us.ibm.com",
+			"twitter": "@gerry_lane",
+			"picture": ""
+		},
+		{
+			"name": "Tony Lewitt",
+			"title": "Program Director - Lead Professional Development Manager",
+			"location": "Raleigh-Durham, NC, USA",
+			"email": "lewitt1@us.ibm.com",
+			"twitter": "@lewAg8tor",
+			"picture": ""
+		},
+		{
+			"name": "Predrag Lucic",
+			"title": "Ecosystem Develoment Executive IBM MEA",
+			"location": "United Arab Emirates",
+			"email": "pllucic@ae.ibm.com",
+			"twitter": "@desertopolis",
+			"picture": ""
+		},
+		{
+			"name": "Chris Madison",
+			"title": "Senior Architect IBM Watson Ecosystem",
+			"location": "Charlotte, NC, USA",
+			"email": "cmadison@us.ibm.com",
+			"twitter": "@ChrisMadisonIBM",
+			"picture": ""
+		},
+		{
+			"name": "Michael Maximilien (Dr. Max)",
+			"title": "Software Engineer hacking on CloudFoundry",
+			"location": "San Jose, CA, USA",
+			"email": "maxim@us.ibm.com",
+			"twitter": "@Maximilien",
+			"picture": ""
+		},
+		{
+			"name": "Marc-Arthur Pierre-Louis",
+			"title": "Senior Software Engineer - Advanced Technology and Design",
+			"location": "Charlotte, NC, USA",
+			"email": "mpierre-@us.ibm.com",
+			"twitter": "@marcapl",
+			"picture": ""
+		},
+		{
+			"name": "Pikachu",
+			"title": "Lightning Rod and Static Expert",
+			"location": "Pallet Town, Kanto",
+			"email": "",
+			"twitter": "Send all email to Ash Ketchum",
+			"picture": ""
+		},
+		{
+			"name": "Jake Peyser",
+			"title": "Developer Advocate for IBM Bluemix",
+			"location": "Austin, TX, USA",
+			"email": "jepeyser@us.ibm.com",
+			"twitter": "@jakepeyser",
+			"picture": ""
+		},
+		{
+			"name": "Gloria Powell",
+			"title": "Program Manager, IBM Adcademic Initiative",
+			"location": "Raleigh, NC, USA",
+			"email": "gpowell@us.ibm.com",
+			"twitter": "@GloriaPowell4",
+			"picture": ""
+		},
+		{
+			"name": "Rob Retchless",
+			"title": "Technical Lead IBM Bluemix DevOps Services Growth Hacking",
+			"location": "Toronto, Canada",
+			"email": "retchles@ca.ibm.com",
+			"twitter": "",
+			"picture": ""
+		},
+		{
+			"name": "Ben Rondeau",
+			"title": "Developer Advocate for IBM Bluemix",
+			"location": "Austin, TX, USA",
+			"email": "benrondeau@us.ibm.com",
+			"twitter": "@_benrondeau",
+			"picture": ""
+		},
+		{
+			"name": "Annahita Varahrami",
+			"title": "Worldwide IBM Bluemix Garage Client Expirience Manager",
+			"location": "Austin, TX, USA",
+			"email": "annahitav@us.ibm.com",
+			"twitter": "",
+			"picture": ""
+		},
+		{
+			"name": "Pascale Xelot",
+			"title": "Director Alliances & Cloud Ecosystem Development IBM Europe",
+			"location": "Nice, France",
+			"email": "pascale.xelot@fr.ibm.com",
+			"twitter": "",
+			"picture": ""
+		},
+	]
+}
