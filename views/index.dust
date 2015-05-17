@@ -1,6 +1,12 @@
 {>layout/}
 {<content}
 <section class="people">
-  {> _person /}
+  {#people}
+    <div class="person">
+      <h2 class="person__name">{name}</h2>
+      <img src='{picture}'>
+      {> _person /}
+    </div>
+  {/people}
 </section>
 {/content}

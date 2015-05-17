@@ -1,7 +1,5 @@
 @import "bower_components/bluemix-style/scss/base.scss";
 
-@import "header";
-@import "layout";
 @import "person";
 
 
@@ -12,4 +10,25 @@ body {
 ul {
   list-style-type: none;
   padding: 0;
+}
+
+.header {
+  &__title {
+    @extend %base--h1;
+    background-color: white;
+    color: #152935;
+    padding: 1em;
+    font-size: 1.5rem;
+
+    span {
+      font-weight: 200;
+    }
+  }
+}
+
+.people {
+  // @include container(95%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }

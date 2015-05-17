@@ -14,6 +14,7 @@
     "tests"
   ],
   "dependencies": {
-    "bluemix-style": "git@github.com:cloud-platform-design/design-guide-package.git"
+    "bluemix-style": "git@github.com:cloud-platform-design/design-guide-package.git",
+    "angular": "~1.3.15"
   }
 }

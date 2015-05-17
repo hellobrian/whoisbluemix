@@ -5,8 +5,7 @@
 			"title": "Cloud Eco System IBM Morocco",
 			"location": "Casablanca, Morocco",
 			"email": "ahmed.ami@ma.ibm.com",
-			"twitter": "",
-			"picture": ""
+			"twitter": ""
 		},
 		{
 			"name": "Adam Archer",
@@ -14,7 +13,7 @@
 			"location": "Toronto, Canada",
 			"email": "agarcher@ca.ibm.com",
 			"twitter": "",
-			"picture": ""
+			"picture": "/images/ibmers/AdamArcher.jpg"
 		},
 		{
 			"name": "Austin Auth",
@@ -22,7 +21,7 @@
 			"location": "Austin, TX, USA",
 			"email": "ahauth@us.ibm.com",
 			"twitter": "@austinauth",
-			"picture": ""
+			"picture": "/images/ibmers/AustinAuth.jpg"
 		},
 		{
 			"name": "Kalonji Bankole",
@@ -30,7 +29,7 @@
 			"location": "San Jose, CA, USA",
 			"email": "kkbankol@us.ibm.com",
 			"twitter": "@k_bankole",
-			"picture": ""
+			"picture": "/images/ibmers/KalonjiBankole.jpg"
 		},
 		{
 			"name": "John Cohn",
@@ -38,7 +37,7 @@
 			"location": "Richmond, VT, USA",
 			"email": "johncohn@us.ibm.com",
 			"twitter": "",
-			"picture": ""
+			"picture": "/images/ibmers/JohnCohn.jpg"
 		},
 		{
 			"name": "Steve Dale",
@@ -46,7 +45,7 @@
 			"location": "Austin, TX, USA",
 			"email": "stevedal@us.ibm.com",
 			"twitter": "@Stevious",
-			"picture": ""
+			"picture": "/images/ibmers/SteveDale.jpg"
 		},
 		{
 			"name": "Ron Doyle",
@@ -54,7 +53,7 @@
 			"location": "RTP, NC, USA",
 			"email": "rdoyle@us.ibm.com",
 			"twitter": "@ronpdoyle",
-			"picture": ""
+			"picture": "/images/ibmers/RonDoyle.jpg"
 		},
 		{
 			"name": "Art Francis",
@@ -62,7 +61,7 @@
 			"location": "RTP, NC, USA",
 			"email": "afrancis@us.ibm.com",
 			"twitter": "",
-			"picture": ""
+			"picture": "/images/ibmers/ArtFrancis.jpg"
 		},
 		{
 			"name": "Michael Fraenkel",
@@ -70,7 +69,7 @@
 			"location": "RTP, NC, USA",
 			"email": "fraenkel@us.ibm.com",
 			"twitter": "@MichaelFraenkel",
-			"picture": ""
+			"picture": "/images/ibmers/MichaelFraenkel.jpg"
 		},
 		{
 			"name": "Julian Friedman",
@@ -78,7 +77,7 @@
 			"location": "Southampton, UK",
 			"email": "julz.friedman@uk.ibm.com",
 			"twitter": "",
-			"picture": ""
+			"picture": "/images/ibmers/JulianFriedman.jpg"
 		},
 		{
 			"name": "Brian Han",
@@ -86,7 +85,7 @@
 			"location": "Austin, TX, USA",
 			"email": "bthan@us.ibm.com",
 			"twitter": "@thisisbrianhan",
-			"picture": ""
+			"picture": "/images/ibmers/BrianHan.jpg"
 		},
 		{
 			"name": "Andrew Hately",
@@ -94,7 +93,7 @@
 			"location": "San Francisco, CA, USA",
 			"email": "hately@us.ibm.com",
 			"twitter": "@cloudtroll",
-			"picture": ""
+			"picture": "/images/ibmers/AndrewHately.jpg"
 		},
 		{
 			"name": "Megan Kostick",
@@ -102,7 +101,7 @@
 			"location": "Seattle, WA, USA",
 			"email": "mkostick@us.ibm.com",
 			"twitter": "",
-			"picture": ""
+			"picture": "/images/ibmers/MeganKostick.jpg"
 		},
 		{
 			"name": "Katarina Korcekova",
@@ -110,7 +109,7 @@
 			"location": "Slovak Republic",
 			"email": "katarina_korcekova@sk.ibm.com",
 			"twitter": "",
-			"picture": ""
+			"picture": "/images/ibmers/KatarinaKorcekova.jpg"
 		},
 		{
 			"name": "Liz Kueper",
@@ -118,7 +117,7 @@
 			"location": "San Francisco, CA, USA",
 			"email": "ekueper@us.ibm.com",
 			"twitter": "@lizkueper",
-			"picture": ""
+			"picture": "/images/ibmers/LizKueper.jpg"
 		},
 		{
 			"name": "Gerry Lane",
@@ -126,7 +125,7 @@
 			"location": "Armonk, NY, USA",
 			"email": "gtlane@us.ibm.com",
 			"twitter": "@gerry_lane",
-			"picture": ""
+			"picture": "/images/ibmers/GerryLane.jpg"
 		},
 		{
 			"name": "Tony Lewitt",
@@ -134,7 +133,7 @@
 			"location": "Raleigh-Durham, NC, USA",
 			"email": "lewitt1@us.ibm.com",
 			"twitter": "@lewAg8tor",
-			"picture": ""
+			"picture": "/images/ibmers/TonyLewitt.jpg"
 		},
 		{
 			"name": "Predrag Lucic",
@@ -142,7 +141,7 @@
 			"location": "United Arab Emirates",
 			"email": "pllucic@ae.ibm.com",
 			"twitter": "@desertopolis",
-			"picture": ""
+			"picture": "/images/ibmers/PredragLucic.jpg"
 		},
 		{
 			"name": "Chris Madison",
@@ -150,7 +149,7 @@
 			"location": "Charlotte, NC, USA",
 			"email": "cmadison@us.ibm.com",
 			"twitter": "@ChrisMadisonIBM",
-			"picture": ""
+			"picture": "/images/ibmers/ChrisMadison.jpg"
 		},
 		{
 			"name": "Michael Maximilien (Dr. Max)",
@@ -158,7 +157,7 @@
 			"location": "San Jose, CA, USA",
 			"email": "maxim@us.ibm.com",
 			"twitter": "@Maximilien",
-			"picture": ""
+			"picture": "/images/ibmers/Maximilien.jpg"
 		},
 		{
 			"name": "Marc-Arthur Pierre-Louis",
@@ -166,7 +165,7 @@
 			"location": "Charlotte, NC, USA",
 			"email": "mpierre-@us.ibm.com",
 			"twitter": "@marcapl",
-			"picture": ""
+			"picture": "/images/ibmers/MarcArthurPierreLouis.jpg"
 		},
 		{
 			"name": "Pikachu",
@@ -174,7 +173,7 @@
 			"location": "Pallet Town, Kanto",
 			"email": "",
 			"twitter": "Send all email to Ash Ketchum",
-			"picture": ""
+			"picture": "/images/ibmers/Pikachu.jpg"
 		},
 		{
 			"name": "Jake Peyser",
@@ -182,7 +181,7 @@
 			"location": "Austin, TX, USA",
 			"email": "jepeyser@us.ibm.com",
 			"twitter": "@jakepeyser",
-			"picture": ""
+			"picture": "/images/ibmers/JakePeyser.jpg"
 		},
 		{
 			"name": "Gloria Powell",
@@ -190,7 +189,7 @@
 			"location": "Raleigh, NC, USA",
 			"email": "gpowell@us.ibm.com",
 			"twitter": "@GloriaPowell4",
-			"picture": ""
+			"picture": "/images/ibmers/GloriaPowell.jpg"
 		},
 		{
 			"name": "Rob Retchless",
@@ -198,7 +197,7 @@
 			"location": "Toronto, Canada",
 			"email": "retchles@ca.ibm.com",
 			"twitter": "",
-			"picture": ""
+			"picture": "/images/ibmers/RobRetchless.jpg"
 		},
 		{
 			"name": "Ben Rondeau",
@@ -206,7 +205,7 @@
 			"location": "Austin, TX, USA",
 			"email": "benrondeau@us.ibm.com",
 			"twitter": "@_benrondeau",
-			"picture": ""
+			"picture": "/images/ibmers/BenRondeau.jpg"
 		},
 		{
 			"name": "Annahita Varahrami",
@@ -214,7 +213,7 @@
 			"location": "Austin, TX, USA",
 			"email": "annahitav@us.ibm.com",
 			"twitter": "",
-			"picture": ""
+			"picture": "/images/ibmers/AnnahitaVarahrami.jpg"
 		},
 		{
 			"name": "Pascale Xelot",
@@ -222,7 +221,7 @@
 			"location": "Nice, France",
 			"email": "pascale.xelot@fr.ibm.com",
 			"twitter": "",
-			"picture": ""
-		},
+			"picture": "/images/ibmers/PascaleXelot.jpg"
+		}
 	]
 }

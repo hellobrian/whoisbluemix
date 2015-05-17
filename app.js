@@ -3,6 +3,8 @@ var path    = require('path');
 var cons    = require('consolidate');
 var dustjs  = require('dustjs-linkedin');
 
+var people = require('./people.json');
+
 var app = express();
 
 app.set('views', path.join(__dirname, 'views'));
@@ -11,7 +13,7 @@ app.set('view engine', 'dust');
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.get('/', function(req, res) {
-  res.render('index', {layout: 'layout'});
+  res.render('index', {layout: 'layout', people: people.people});
 });
 
 var host = (process.env.VCAP_APP_HOST || 'localhost');
