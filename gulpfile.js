@@ -24,6 +24,7 @@ var SOURCE = {
   scss: 'scss/**/*.scss',
   css: 'public/css',
   dust: 'views/**/*.dust',
+  html: '*.html',
   js: ['/*.js', 'public/js/*.js']
 };
 
@@ -58,7 +59,7 @@ gulp.task('bs-reload', function () {
 // Default task to be run with `gulp`
 gulp.task('default', ['sass', 'browser-sync'], function () {
     gulp.watch(SOURCE.scss, ['sass']);
-    gulp.watch([SOURCE.js, SOURCE.dust], ['bs-reload'])
+    gulp.watch([SOURCE.html, SOURCE.js, SOURCE.dust], ['bs-reload'])
 });
 
 module.exports = gulp;
