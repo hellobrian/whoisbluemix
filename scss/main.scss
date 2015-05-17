@@ -2,31 +2,20 @@
 @import "person";
 
 
-body {
-  background-color: white;  
+.whois__header { 
+  background-color: #5aaafa;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  width: 100%;
 }
 
-ul {
-  list-style-type: none;
-  padding: 0;
+.whois__heading {
+  font-size: 1rem;
 }
 
-.header {
-  &__title {
-    @extend %base--h1;
-    background-color: white;
-    color: #152935;
-    padding: 1em;
-    font-size: 1.5rem;
-
-    span {
-      font-weight: 200;
-    }
+.page-wrapper {
+  @include container(94%);
+  @media screen and (min-width: 520px){
+    @include container(90%);
   }
-}
-
-.people {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
 }

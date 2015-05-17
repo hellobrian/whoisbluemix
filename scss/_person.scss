@@ -1,39 +1,122 @@
-.person {
-  @extend %font-smoothing;
-  width: 100%;
-  padding: 1em 0;
-
-  &__title, 
-  &__location, 
-  &__email,
-  &__twitter {
-    @extend %base--p;
-    padding: 0 1em;
-    margin-bottom: 0.5em;
-  }
-  &__profile-container {
-    width: 100%;
-    @media screen and (min-width: em(400px)) {
-      width: 50%;
-    }
-  }
-
-  &__name {
-    @extend %base--h1;
-    display: block;
-    background-color: darken(#5aaafa, 1);
-    padding: 1em;
-    margin: 0;
-    color: white;
-    font-size: 1.25rem;
-    width: 100%;
-  }
-
-  &__picture-container {
-    display: inline-block;
-    width: 100%;
-    height: rem(250px);
-    background-repeat: no-repeat;
-    background-size: 75%;
-  }
+html {
+  box-sizing: border-box;
 }
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: #f1f1f1;
+  font-family: helvetica;
+}
+
+.card {
+  background-color: white;
+  border: 1px solid #d0d2d3;
+  margin-bottom: 1rem;
+  overflow: hidden;
+  width: 100%;
+  position: relative;
+  @media screen and (min-width: 520px){
+    @include gallery(6 of 12);
+  }
+  @media screen and (min-width: 945px){
+    @include gallery(4 of 12);
+  }
+
+}
+
+.card__banner {
+  background-color: #5aaafa;
+  overflow: hidden;
+  display: block;
+  padding: 1rem;
+  width: 100%;
+}
+
+.card__body {
+  padding: 1rem;
+  height: 150px;
+}
+
+.card__img--container {
+  float: left;
+  margin-right: 1rem;
+}
+
+.card__img {
+  width: 100%;
+  max-width: 75px;
+  max-height: 75px;
+}
+
+.card__body-copy--container {
+  overflow: hidden;
+}
+
+.card__person-name,
+.card__person-title {
+  display: block;
+}
+
+.card__person-name {
+  font-weight: bold;
+  font-size: 1.266rem;
+  margin-bottom: .5rem;
+}
+.card__person-title {
+  font-weight: 300;
+  line-height: 1.4;
+}
+
+.card__icon-container {
+  float: right;
+  
+}
+
+.card__icon {
+  color: white;
+  margin-left: 1rem;
+}
+
+
+
+// .person {
+//   @extend %font-smoothing;
+//   width: 100%;
+//   padding: 1em 0;
+
+//   &__title, 
+//   &__location, 
+//   &__email,
+//   &__twitter {
+//     @extend %base--p;
+//     padding: 0 1em;
+//     margin-bottom: 0.5em;
+//   }
+//   &__profile-container {
+//     width: 100%;
+//     @media screen and (min-width: em(400px)) {
+//       width: 50%;
+//     }
+//   }
+
+//   &__name {
+//     @extend %base--h1;
+//     display: block;
+//     background-color: darken(#5aaafa, 1);
+//     padding: 1em;
+//     margin: 0;
+//     color: white;
+//     font-size: 1.25rem;
+//     width: 100%;
+//   }
+
+//   &__picture-container {
+//     display: inline-block;
+//     width: 100%;
+//     height: rem(250px);
+//     background-repeat: no-repeat;
+//     background-size: 75%;
+//   }
+// }
