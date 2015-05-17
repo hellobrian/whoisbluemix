@@ -18,6 +18,7 @@ var app = express();
 
 app.use(express.static(__dirname + '/', { extensions: ['html'] }));
 app.use(express.static(__dirname + 'public'));
+app.use(express.static(__dirname + 'bower_components'));
 
 app.get('/', function(req, res) {
   res.sendFile('index.html');

@@ -13,6 +13,9 @@
   }
   &__profile-container {
     width: 100%;
+    @media screen and (min-width: em(400px)) {
+      width: 50%;
+    }
   }
 
   &__name {
