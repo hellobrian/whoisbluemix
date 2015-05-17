@@ -69,7 +69,7 @@ gulp.task('bs-reload', function () {
 });
 
 // Default task to be run with `gulp`
-gulp.task('default', ['sass', 'browser-sync', 'image'], function () {
+gulp.task('default', ['sass', 'browser-sync'], function () {
   gulp.watch(SOURCE.scss, ['sass']);
   gulp.watch([SOURCE.js, SOURCE.dust], ['bs-reload']);
   gulp.watch('*.html').on('change', browserSync.reload);
