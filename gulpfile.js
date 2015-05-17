@@ -6,8 +6,8 @@ var csso = require('gulp-csso');
 var autoprefixer = require('gulp-autoprefixer');
 var browserSync = require('browser-sync');
 var plumber = require('gulp-plumber');
-var imagemin = require('gulp-imagemin');
-var pngquant = require('imagemin-pngquant');
+// var imagemin = require('gulp-imagemin');
+// var pngquant = require('imagemin-pngquant');
 var reload = browserSync.reload;
 
 var AUTOPREFIXER_BROWSERS = [
@@ -54,15 +54,15 @@ gulp.task('sass', ['scss-lint'], function () {
   .pipe(reload({stream:true}));
 });
 
-gulp.task('image', function() {
-  return gulp.src('public/images/**/*')
-    .pipe(imagemin({
-      progressive: true,
-      svgoPlugins: [{removeViewBox: false}],
-      use: [pngquant()]
-    }))
-    .pipe(gulp.dest('public/images/dist'));
-  });
+// gulp.task('image', function() {
+//   return gulp.src('public/images/**/*')
+//     .pipe(imagemin({
+//       progressive: true,
+//       svgoPlugins: [{removeViewBox: false}],
+//       use: [pngquant()]
+//     }))
+//     .pipe(gulp.dest('public/images/dist'));
+//   });
 
 gulp.task('bs-reload', function () {
     browserSync.reload();
