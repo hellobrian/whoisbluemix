@@ -79,7 +79,13 @@ body {
   margin-left: 1rem;
 }
 
+.whois__heading {
+  font-weight: bold;
+}
 
+.whois__heading--normal {
+  font-weight: normal;
+}
 
 // .person {
 //   @extend %font-smoothing;
