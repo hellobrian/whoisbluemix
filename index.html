@@ -5,29 +5,41 @@
   <title>whoisibm</title>
   <meta name="viewport" content="width=device-width">
   <link rel="stylesheet" href="public/css/main.css">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   <script src="bower_components/angular/angular.min.js"></script>
 </head>
 <body ng-controller="PeopleController">
-  <header class="header">
-    <h1 class="header__title"><span>/whois</span> IBM</h1>
+  <header class="whois__header">
+    <h1 class="whois__heading">/whois <span class="whois__heading--normal">IBM</span></h1>
   </header>
-  <section class="people" ng-repeat="person in people">
-    <div class="person">
-      <div class="person__profile-container">
-        <h2 class="person__name">{{person.name}}</h2>
-        <div class="person__picture-container" style='background-image: url("../public/{{person.picture}}")'>
+    <div class="page-wrapper">
+      <!-- Profile Card -->
+      <section class="card" ng-repeat="person in people">
+
+        <!-- Card Body Content -->
+        <div class="card__body">
+          <div class="card__img--container">
+            <img class="card__img" src="../public/{{person.picture}}">
+          </div>
+          <div class="card__body-copy--container">
+            <span class="card__person-name">{{person.name}}</span>
+            <span class="card__person-title">{{person.title}}</span>
+          </div>
         </div>
-      </div>
-      
-      <ul class="person__about">
-        <li class="person__title">{{person.title}}</li>
-        <li class="person__location">{{person.location}}</li>
-        <li class="person__email">{{person.email}}</li>
-        <li class="person__twitter">{{person.twitter}}</li>  
-      </ul>
+
+        <!-- Card Contact Banner -->
+        <div class="card__banner">
+          <!-- <div class="card__location-container">
+            <span>{{person.location}}</span>
+          </div> -->
+          <div class="card__icon-container">
+            <a href="https://twitter.com/{{person.twitter}}"><i class="card__icon fa fa-twitter"></i></a>
+            <a href="mailto:{{person.email}}"><i class="card__icon fa fa-envelope-o"></i></a>
+          </div>
+        </div>
+      </section>
+
     </div>
-    
-  </section>
-  <script src="public/js/main.js"></script>
+<script src="public/js/main.js"></script>
 </body>
 </html>
