@@ -36,7 +36,7 @@ body {
 
 .card__body {
   padding: 1rem;
-  height: 150px;
+  height: 140px;
 }
 
 .card__img--container {
@@ -61,8 +61,8 @@ body {
 
 .card__person-name {
   font-weight: bold;
-  font-size: 1.266rem;
-  margin-bottom: .5rem;
+  font-size: 1.125rem;
+  margin-bottom: .25rem;
 }
 .card__person-title {
   font-weight: 300;
@@ -71,7 +71,6 @@ body {
 
 .card__icon-container {
   float: right;
-  
 }
 
 .card__icon {
@@ -86,43 +85,3 @@ body {
 .whois__heading--normal {
   font-weight: normal;
 }
-
-// .person {
-//   @extend %font-smoothing;
-//   width: 100%;
-//   padding: 1em 0;
-
-//   &__title, 
-//   &__location, 
-//   &__email,
-//   &__twitter {
-//     @extend %base--p;
-//     padding: 0 1em;
-//     margin-bottom: 0.5em;
-//   }
-//   &__profile-container {
-//     width: 100%;
-//     @media screen and (min-width: em(400px)) {
-//       width: 50%;
-//     }
-//   }
-
-//   &__name {
-//     @extend %base--h1;
-//     display: block;
-//     background-color: darken(#5aaafa, 1);
-//     padding: 1em;
-//     margin: 0;
-//     color: white;
-//     font-size: 1.25rem;
-//     width: 100%;
-//   }
-
-//   &__picture-container {
-//     display: inline-block;
-//     width: 100%;
-//     height: rem(250px);
-//     background-repeat: no-repeat;
-//     background-size: 75%;
-//   }
-// }
