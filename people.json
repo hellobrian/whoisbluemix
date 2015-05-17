@@ -168,12 +168,12 @@
 			"picture": "/images/ibmers/MarcArthurPierreLouis.jpg"
 		},
 		{
-			"name": "Pikachu",
+			"name": "PikaBluemix",
 			"title": "Lightning Rod and Static Expert",
 			"location": "Pallet Town, Kanto",
 			"email": "",
-			"twitter": "Send all email to Ash Ketchum",
-			"picture": "/images/ibmers/Pikachu.jpg"
+			"twitter": "@pikabluemix",
+			"picture": "/images/ibmers/PikaBluemix.jpg"
 		},
 		{
 			"name": "Jake Peyser",
@@ -214,14 +214,6 @@
 			"email": "annahitav@us.ibm.com",
 			"twitter": "",
 			"picture": "/images/ibmers/AnnahitaVarahrami.jpg"
-		},
-		{
-			"name": "Pascale Xelot",
-			"title": "Director Alliances & Cloud Ecosystem Development IBM Europe",
-			"location": "Nice, France",
-			"email": "pascale.xelot@fr.ibm.com",
-			"twitter": "",
-			"picture": "/images/ibmers/PascaleXelot.jpg"
 		}
 	]
 }
