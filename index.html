@@ -33,8 +33,9 @@
             <span>{{person.location}}</span>
           </div> -->
           <div class="card__icon-container">
-            <a href="https://twitter.com/{{person.twitter}}"><i class="card__icon fa fa-twitter"></i></a>
-            <a href="mailto:{{person.email}}"><i class="card__icon fa fa-envelope-o"></i></a>
+            <a ng-show="{{person.linkedIn}}" href="{{person.linkedIn}}"><i class="card__icon fa fa-linkedin"></i></a>
+            <a ng-show="{{person.twitter}}" href="https://twitter.com/{{person.twitter}}"><i class="card__icon fa fa-twitter"></i></a>
+            <a ng-show="{{person.email}}" href="mailto:{{person.email}}"><i class="card__icon fa fa-envelope-o"></i></a>
           </div>
         </div>
       </section>
