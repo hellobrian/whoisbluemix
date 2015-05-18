@@ -6,6 +6,7 @@
 			"location": "Casablanca, Morocco",
 			"email": "ahmed.ami@ma.ibm.com",
 			"twitter": "",
+			"linkedIn": "",
 			"picture": "/images/ibmers/AhmedAmni.jpg"
 		},
 		{
@@ -14,6 +15,7 @@
 			"location": "Toronto, Canada",
 			"email": "agarcher@ca.ibm.com",
 			"twitter": "",
+			"linkedIn": "https://www.linkedin.com/in/agarcher",
 			"picture": "/images/ibmers/AdamArcher.jpg"
 		},
 		{
@@ -21,7 +23,8 @@
 			"title": "Front-End Devloper and Designer on IBM Bluemix",
 			"location": "Austin, TX, USA",
 			"email": "ahauth@us.ibm.com",
-			"twitter": "austinauth",
+			"twitter": "@austinauth",
+			"linkedIn": "https://www.linkedin.com/in/austinauth",
 			"picture": "/images/ibmers/AustinAuth.jpg"
 		},
 		{
@@ -29,7 +32,8 @@
 			"title": "Software Engineer Automating BlueMix deployments",
 			"location": "San Jose, CA, USA",
 			"email": "kkbankol@us.ibm.com",
-			"twitter": "k_bankole",
+			"twitter": "@k_bankole",
+			"linkedIn": "",
 			"picture": "/images/ibmers/KalonjiBankole.jpg"
 		},
 		{
@@ -38,6 +42,7 @@
 			"location": "Richmond, VT, USA",
 			"email": "johncohn@us.ibm.com",
 			"twitter": "",
+			"linkedIn": "https://www.linkedin.com/in/johncohn",
 			"picture": "/images/ibmers/JohnCohn.jpg"
 		},
 		{
@@ -45,7 +50,8 @@
 			"title": "Manager - Advanced Cloud Infrastructure and DEMOcentral",
 			"location": "Austin, TX, USA",
 			"email": "stevedal@us.ibm.com",
-			"twitter": "Stevious",
+			"twitter": "@Stevious",
+			"linkedIn": "https://www.linkedin.com/in/stevedal",
 			"picture": "/images/ibmers/SteveDale.jpg"
 		},
 		{
@@ -53,7 +59,8 @@
 			"title": "Distinguished Engineer Leading the Cloud and Mobile Tech Team",
 			"location": "RTP, NC, USA",
 			"email": "rdoyle@us.ibm.com",
-			"twitter": "ronpdoyle",
+			"twitter": "@ronpdoyle",
+			"linkedIn": "https://www.linkedin.com/pub/ron-doyle/5/a31/325",
 			"picture": "/images/ibmers/RonDoyle.jpg"
 		},
 		{
@@ -62,6 +69,7 @@
 			"location": "RTP, NC, USA",
 			"email": "afrancis@us.ibm.com",
 			"twitter": "",
+			"linkedIn": "",
 			"picture": "/images/ibmers/ArtFrancis.jpg"
 		},
 		{
@@ -69,7 +77,8 @@
 			"title": "Distinguished Engineer - Working on CloudFoundry",
 			"location": "RTP, NC, USA",
 			"email": "fraenkel@us.ibm.com",
-			"twitter": "MichaelFraenkel",
+			"twitter": "@MichaelFraenkel",
+			"linkedIn": "",
 			"picture": "/images/ibmers/MichaelFraenkel.jpg"
 		},
 		{
@@ -78,6 +87,7 @@
 			"location": "Southampton, UK",
 			"email": "julz.friedman@uk.ibm.com",
 			"twitter": "",
+			"linkedIn": "",
 			"picture": "/images/ibmers/JulianFriedman.jpg"
 		},
 		{
@@ -85,7 +95,8 @@
 			"title": "Front-end Developer on IBM Bluemix",
 			"location": "Austin, TX, USA",
 			"email": "bthan@us.ibm.com",
-			"twitter": "thisisbrianhan",
+			"twitter": "@thisisbrianhan",
+			"linkedIn": "",
 			"picture": "/images/ibmers/BrianHan.jpg"
 		},
 		{
@@ -93,7 +104,8 @@
 			"title": "Distinguished Engineer and CTO, Cloud Labs",
 			"location": "San Francisco, CA, USA",
 			"email": "hately@us.ibm.com",
-			"twitter": "cloudtroll",
+			"twitter": "@cloudtroll",
+			"linkedIn": "https://www.linkedin.com/in/ahately",
 			"picture": "/images/ibmers/AndrewHately.jpg"
 		},
 		{
@@ -102,6 +114,7 @@
 			"location": "Seattle, WA, USA",
 			"email": "mkostick@us.ibm.com",
 			"twitter": "",
+			"linkedIn": "https://www.linkedin.com/in/kostickmegan",
 			"picture": "/images/ibmers/MeganKostick.jpg"
 		},
 		{
@@ -110,6 +123,7 @@
 			"location": "Slovak Republic",
 			"email": "katarina_korcekova@sk.ibm.com",
 			"twitter": "",
+			"linkedIn": "",
 			"picture": "/images/ibmers/KatarinaKorcekova.jpg"
 		},
 		{
@@ -117,7 +131,8 @@
 			"title": "Solutions Architect Dot Connection Engineer IBM Silicon Valley",
 			"location": "San Francisco, CA, USA",
 			"email": "ekueper@us.ibm.com",
-			"twitter": "lizkueper",
+			"twitter": "@lizkueper",
+			"linkedIn": "https://www.linkedin.com/in/lizkueper",
 			"picture": "/images/ibmers/LizKueper.jpg"
 		},
 		{
@@ -125,7 +140,8 @@
 			"title": "Director of Open Technology & IP",
 			"location": "Armonk, NY, USA",
 			"email": "gtlane@us.ibm.com",
-			"twitter": "gerry_lane",
+			"twitter": "@gerry_lane",
+			"linkedIn": "https://www.linkedin.com/in/geraldlane",
 			"picture": "/images/ibmers/GerryLane.jpg"
 		},
 		{
@@ -133,7 +149,8 @@
 			"title": "Program Director - Lead Professional Development Manager",
 			"location": "Raleigh-Durham, NC, USA",
 			"email": "lewitt1@us.ibm.com",
-			"twitter": "lewAg8tor",
+			"twitter": "@lewAg8tor",
+			"linkedIn": "",
 			"picture": "/images/ibmers/TonyLewitt.jpg"
 		},
 		{
@@ -141,7 +158,8 @@
 			"title": "Ecosystem Develoment Executive IBM MEA",
 			"location": "United Arab Emirates",
 			"email": "pllucic@ae.ibm.com",
-			"twitter": "desertopolis",
+			"twitter": "@desertopolis",
+			"linkedIn": "https://www.linkedin.com/in/plucic",
 			"picture": "/images/ibmers/PredragLucic.jpg"
 		},
 		{
@@ -149,7 +167,8 @@
 			"title": "Senior Architect IBM Watson Ecosystem",
 			"location": "Charlotte, NC, USA",
 			"email": "cmadison@us.ibm.com",
-			"twitter": "ChrisMadisonIBM",
+			"twitter": "@ChrisMadisonIBM",
+			"linkedIn": "https://www.linkedin.com/in/cmmadison",
 			"picture": "/images/ibmers/ChrisMadison.jpg"
 		},
 		{
@@ -157,7 +176,8 @@
 			"title": "Software Engineer hacking on CloudFoundry",
 			"location": "San Jose, CA, USA",
 			"email": "maxim@us.ibm.com",
-			"twitter": "Maximilien",
+			"twitter": "@Maximilien",
+			"linkedIn": "https://www.linkedin.com/in/drmaximilien",
 			"picture": "/images/ibmers/Maximilien.jpg"
 		},
 		{
@@ -165,7 +185,8 @@
 			"title": "Senior Software Engineer - Advanced Technology and Design",
 			"location": "Charlotte, NC, USA",
 			"email": "mpierre-@us.ibm.com",
-			"twitter": "marcapl",
+			"twitter": "@marcapl",
+			"linkedIn": "",
 			"picture": "/images/ibmers/MarcArthurPierreLouis.jpg"
 		},
 		{
@@ -174,6 +195,7 @@
 			"location": "Pallet Town, Kanto",
 			"email": "",
 			"twitter": "@pikabluemix",
+			"linkedIn": "",
 			"picture": "/images/ibmers/PikaBluemix.jpg"
 		},
 		{
@@ -181,7 +203,8 @@
 			"title": "Developer Advocate for IBM Bluemix",
 			"location": "Austin, TX, USA",
 			"email": "jepeyser@us.ibm.com",
-			"twitter": "jakepeyser",
+			"twitter": "@jakepeyser",
+			"linkedIn": "https://www.linkedin.com/in/jakepeyser",
 			"picture": "/images/ibmers/JakePeyser.jpg"
 		},
 		{
@@ -189,7 +212,8 @@
 			"title": "Program Manager, IBM Adcademic Initiative",
 			"location": "Raleigh, NC, USA",
 			"email": "gpowell@us.ibm.com",
-			"twitter": "GloriaPowell4",
+			"twitter": "@GloriaPowell4",
+			"linkedIn": "",
 			"picture": "/images/ibmers/GloriaPowell.jpg"
 		},
 		{
@@ -198,6 +222,7 @@
 			"location": "Toronto, Canada",
 			"email": "retchles@ca.ibm.com",
 			"twitter": "",
+			"linkedIn": "",
 			"picture": "/images/ibmers/RobRetchless.jpg"
 		},
 		{
@@ -205,7 +230,8 @@
 			"title": "Developer Advocate for IBM Bluemix",
 			"location": "Austin, TX, USA",
 			"email": "benrondeau@us.ibm.com",
-			"twitter": "_benrondeau",
+			"twitter": "@_benrondeau",
+			"linkedIn": "https://www.linkedin.com/pub/ben-rondeau/80/b83/369",
 			"picture": "/images/ibmers/BenRondeau.jpg"
 		},
 		{
@@ -214,6 +240,7 @@
 			"location": "Austin, TX, USA",
 			"email": "annahitav@us.ibm.com",
 			"twitter": "",
+			"linkedIn": "",
 			"picture": "/images/ibmers/AnnahitaVarahrami.jpg"
 		}
 	]
