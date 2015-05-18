@@ -1,6 +1,17 @@
 @import "bower_components/bluemix-style/scss/base.scss";
 @import "person";
 
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: #eef2f3;
+  font-family: helvetica;
+}
 
 .whois__header { 
   background-color: #5aaafa;
@@ -13,6 +24,7 @@
 
 .whois__heading {
   font-size: 1rem;
+  color: #eef2f3;
 }
 
 .page-wrapper {

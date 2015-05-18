@@ -1,18 +1,5 @@
-html {
-  box-sizing: border-box;
-}
-*, *:before, *:after {
-  box-sizing: inherit;
-}
-
-body {
-  background-color: #F9F9F9;
-  font-family: helvetica;
-}
-
 .card {
   background-color: white;
-  border: 1px solid #d0d2d3;
   margin-bottom: 1rem;
   overflow: hidden;
   width: 100%;
