@@ -51,9 +51,19 @@
   font-size: 1.125rem;
   margin-bottom: .25rem;
 }
+
 .card__person-title {
   font-weight: 300;
   line-height: 1.4;
+}
+
+.card__person-location {
+  font-size: 0.889rem;
+  color: white;
+}
+
+.card__location-container {
+  float: left;
 }
 
 .card__icon-container {
@@ -63,6 +73,15 @@
 .card__icon {
   color: white;
   margin-left: 1rem;
+
+  &:hover {
+    color: color("blue", 10);
+    transition: all 0.25s ease;
+  }
+}
+
+.card__icon--location {
+  margin-right: .5rem;
 }
 
 .whois__heading {
